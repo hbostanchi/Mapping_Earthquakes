@@ -2,7 +2,7 @@
 
 ## Module Overview
 In this module, you will use the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data from a URL. Each earthquake will be visually represented by a circle and color, where a higher magnitude will have a larger diameter and will be darker in color. In addition, each earthquake will have a popup marker that, when clicked, will show the magnitude of the earthquake and the location of the earthquake.
-###In this module:
+### In this module:
 Create a branch from the master branch on GitHub.
 Add, commit, and push data to a GitHub branch.
 Merge a branch with the master branch on GitHub.
@@ -13,7 +13,7 @@ Add multiple map layers to geographical maps using Leaflet control plugins to ad
 Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
 Render maps on a local server.
 
-##Summery of Module:
+## Summery of Module:
 
 ## Challenge Overview
 To illustrate the severity of the earthquakes in relation to the tectonic plates, you’ll need to log in to GitHub and access the tectonic plate data from this GitHub repository. (Links to an external site.) You will also need to make an API call to the tectonic plate data using d3.json(), and then add the data as an overlay to the map using the L.geoJSON() layer. In addition to the streets and satelliteStreets maps, you’ll need to add a third map style of your choosing. All map styles must be added to the base layer so that they show up on the map to allow the user to change which layers are visible.
