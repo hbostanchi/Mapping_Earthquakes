@@ -32,7 +32,7 @@ let map = L.map("mapid", {
 L.control.layers(baseMaps).addTo(map);
 
 // Accessing the Toronto airline routes GeoJSON URL
-let torontoData = "https://raw.githubusercontent.com/hbostanchi/Mapping_Earthquakes/master/torontoRoutes.json";
+let torontoData = "https://github.com/hbostanchi/Mapping_Earthquakes/blob/master/torontoRoutes.json";
 
 // Create a style for the lines.
 let myStyle = {
@@ -51,3 +51,4 @@ d3.json(torontoData).then(function(data) {
         }
     }).addTo(map);
 });
+
