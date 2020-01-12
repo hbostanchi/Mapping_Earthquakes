@@ -31,7 +31,7 @@ zoom: 11,
 L.control.layers(baseMaps).addTo(map);
 
 // Accessing the Toronto airline routes GeoJSON URL.
-let torontoHoods = "https://raw.githubusercontent.com/Shannon-Goddard/Goddard_Shannon_Mapping_Earthquakes/master/torontoNeighborhoods.json";
+let torontoHoods = "https://github.com/hbostanchi/Mapping_Earthquakes/blob/master/torontoNeighborhoods.json";
 
 //Create a style for the lines.
 let myStyle = {
