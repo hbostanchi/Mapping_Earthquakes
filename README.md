@@ -55,4 +55,4 @@ Add the tectonic plate and earthquake data to the map for any map style choice.
 Edit the base layer so that it holds all three maps.
 Make the streets map the default map.
 
-![final image]()
+![final image](https://github.com/hbostanchi/Mapping_Earthquakes/blob/master/image/Screen%20Shot%202020-01-12%20at%205.16.10%20PM.png)
