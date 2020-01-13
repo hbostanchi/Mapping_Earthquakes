@@ -58,4 +58,4 @@ Make the streets map the default map.
 ![final image](https://github.com/hbostanchi/Mapping_Earthquakes/blob/master/image/Screen%20Shot%202020-01-12%20at%205.16.10%20PM.png)
 
 
-![final image](https://github.com/hbostanchi/Mapping_Earthquakes/blob/master/image/Screen%20Shot%202020-01-12%20at%205.16.27%20PM.png)
+![final image](https://github.com/hbostanchi/Mapping_Earthquakes/blob/master/image/Screen%20Shot%202020-01-13%20at%202.55.10%20PM.png)
