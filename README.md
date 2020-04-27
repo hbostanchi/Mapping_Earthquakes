@@ -60,4 +60,4 @@ Make the streets map the default map.
 
 ![final image](https://github.com/hbostanchi/Mapping_Earthquakes/blob/master/image/Screen%20Shot%202020-01-13%20at%202.55.10%20PM.png)
 
-View Live Deploy[Mapping_Earthquakes](https://hbostanchi.github.io/Mapping_Earthquakes/)
+View [Live Demo Map](https://hbostanchi.github.io/Mapping_Earthquakes/)
