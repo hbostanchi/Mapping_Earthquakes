@@ -70,4 +70,4 @@ The earthquake and tectonic data are present on the map style.
 ## App
 The map loads with the street view, earthquake circles and tectonic plates showing. Selecting any circle will display more information about the earthquake. When selecting the upper right menu, you have the option to change the base map to satellite or dark mode. You can also remove the earthquake or tectonic plate layers. Earthquake map in action.
 
-[gif](https://github.com/hbostanchi/Mapping_Earthquakes/blob/master/image/earthquake_demo.gif)!
+![gif](https://github.com/hbostanchi/Mapping_Earthquakes/blob/master/image/earthquake_demo.gif)
