@@ -1,4 +1,3 @@
-
 // Add console.log to check to see if our code is working.
 console.log("working");
 // We create the street view tile layer that will be the background of our map.
